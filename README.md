@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello there 👋
+- 🔭 I’m new here, hope to learn more! 
 
 <!--
 **aruzhanye/aruzhanye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
